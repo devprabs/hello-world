@@ -1,1 +1,2 @@
-THis is my first line in this first file.
+#THis is my first line in this first file.
+I love JESUS. He's my real saviour and my rock
